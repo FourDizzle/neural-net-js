@@ -1,0 +1,16 @@
+{
+  "name": "digit-recognizer",
+  "version": "0.0.1",
+  "description": "classic first neural network to recognize digits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mnist": "^1.1.0",
+    "randgen": "^0.1.0"
+  }
+}
